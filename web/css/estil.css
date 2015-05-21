@@ -1,0 +1,64 @@
+
+#AdminClientes {
+ background:#282828url(../imagenes/background.jpg);
+width: 350px;
+padding: 20px;
+margin: 100px auto;
+
+}
+
+
+
+
+#gestion {
+ background:#282828url(../imagenes/background.jpg);
+width: 500px;
+padding: 60px;
+margin: 90px auto;
+top:20px;
+border-radius: 15px;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;
+font-family:tahoma;
+}
+
+#materia {
+ background:#282828url(../imagenes/background.jpg);
+width: 500px;
+padding: 60px;
+margin: 90px auto;
+top:20px;
+border-radius: 15px;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;
+font-family:tahoma;
+}
+
+#usuario {
+ background:#282828url(../imagenes/background.jpg);
+width: 500px;
+padding: 60px;
+margin: 90px auto;
+top:20px;
+border-radius: 15px;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;
+font-family:tahoma;
+}
+
+#mueble {
+ background:#282828url(../imagenes/background.jpg);
+width: 500px;
+padding: 60px;
+margin: 90px auto;
+top:20px;
+border-radius: 15px;
+-moz-border-radius: 15px;
+-webkit-border-radius: 15px;
+font-family:tahoma;
+}
+
+
+
+
+

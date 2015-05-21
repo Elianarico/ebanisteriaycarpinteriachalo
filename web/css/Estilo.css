@@ -1,0 +1,184 @@
+html
+{ height: 100%;}
+
+
+
+body
+{ 
+  background: #1d1d1d url(../imagenes/background.jpg) repeat;
+  color: #000;
+}
+
+
+p
+{ padding: 0 0 10px 0;
+  line-height: 1.7em;
+  text-shadow: 0px 1px 0px #FFF;
+  font-size: 100% }
+
+
+h1, h2, h3, h4, h5, h6 { 
+  color: #000;
+}
+
+
+#menubar
+{ width: 920px;
+  height: 50px;
+  background: #B29E74;
+  border-radius: 0px 0px 25px 25px; 
+  -webkit-border: 0px 0px 25px 25px;} 
+
+ 
+ul#menu
+{ margin:0;
+  float: right;}
+
+
+
+ul#menu li
+{ 
+  display: inline;
+  }
+
+
+ul#menu li a
+{ float: left;
+  font: bold 120% Arial;
+ 
+  color: #FFF;
+  text-decoration: none;
+  
+  text-shadow: 1px 1px #000;
+  padding: 16px ;
+   } 
+
+
+.sidebar_container
+{ float: right;
+  width: 320px;
+  }
+
+.sidebar h2
+{ padding: 5px 0 0 10px;
+  font: normal 140% Arial;
+  height: 30px;
+  text-shadow: 0px  1px 0px #FFF;
+  background: #B29E74;
+  border-radius: 15px 15px 15px 15px;
+ 
+ }  
+
+.content_item
+{ width: 580px;
+  }
+
+
+
+
+    
+#banner_image {
+	
+	height: 430px;
+	
+	margin: 20px 0 0 0;
+	
+}
+	
+	         
+    .nivoSlider img {
+ 
+    position: absolute;
+    
+}
+   
+
+.nivo-slice {
+    display: block;
+    height: 100%;
+    position: absolute;
+    z-index: 5;
+}
+
+.nivo-box {
+    
+    position: absolute;
+   
+}
+
+
+* { 
+  margin: 0; 
+  padding: 0;}
+
+
+body { 
+  font: normal .89em arial, sans-serif;}
+
+p { 
+  
+  line-height: 1.7em;}
+
+
+h1, h2, h3, h4, h5, h6 { 
+  font: normal 350% arial;
+  margin: 0 0 5px 0;
+  }
+
+h2 { 
+  font: normal 170% arial;
+  margin: 0;
+  padding: 0 0 8px 0;}
+
+
+#main { 
+  width: 950px;
+  margin: 20px auto;}
+
+
+
+.form_settings span { 
+  
+  float: left; 
+  width: 170px; 
+ }
+  
+.form_settings input, .form_settings textarea { 
+  padding: 4px; 
+  width: 252px;
+  font: 100% arial;
+  border: 0;
+  border-bottom: 1px solid; 
+  background: transparent;}
+  
+.form_settings .submit { 
+  font: 220% arial; 
+  width: 100px; 
+  border-radius: 6px 6px 6px 6px;
+  -moz-border-radius: 6px 6px 6px 6px;}
+
+.form_settings textarea, .form_settings select { 
+  
+  border: 1px solid; 
+  border-radius: 6px 6px 6px 6px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .nivo-controlNav a {
+    
+    
+    float: left;
+    height: 22px;
+    
+    position: relative;
+    text-indent: -9999px;
+    
+    
+    
+}
+
